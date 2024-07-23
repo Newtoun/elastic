@@ -1,0 +1,6 @@
+# GENERAL SETTINS
+
+node.roles: [ master, data ]
+
+
+bootstrap.memory_lock: true
